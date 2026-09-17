@@ -1,4 +1,4 @@
-﻿|<p>**🩺 AI Disease Prediction System**</p><p>Symptom-Based Disease Predictor with Medicine Suggestions</p><p>👤 Author: Satyam Singh</p><p>🆔 Registration Number : 25BAI10144</p><p>🏫 VIT Bhopal University</p><p>📘 Course: CSA2001 — Fundamentals of AI and ML</p>|
+﻿|<p>**🩺 AI Disease detection System**</p><p>Symptom-Based Disease Predictor with Medicine Suggestions</p><p>👤 Author: Krishnapal Rajput </p><p>🆔 Registration Number : 25MIM10084 </p><p>🏫 VIT Bhopal University</p><p>📘 Course: CSA2001 — Fundamentals of AI and ML</p>|
 | :-: |
 
 
